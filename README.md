@@ -32,22 +32,10 @@ I wanted the app to stay focused: a clean interface, practical features, and loc
 
 Here is a look at Clipboard in both available appearances.
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <strong>Dark Mode</strong><br />
-      <img src="screenshots/dark-mode.png" alt="Clipboard running in Dark Mode" width="100%" />
-    </td>
-    <td align="center" width="50%">
-      <strong>Light Mode</strong><br />
-      <img src="screenshots/light-mode.png" alt="Clipboard running in Light Mode" width="100%" />
-    </td>
-    <td align="center" width="50%">
-      <strong>Light Mode</strong><br />
-      <img src="screenshots/clipboard.png" alt="Clipboard - copied and pinned items" width="100%" />
-    </td>
-  </tr>
-</table>
+<img width="400" height="300" alt="clipboard" src="https://github.com/user-attachments/assets/e8737949-a260-4771-9a0e-f44871c99047" /><img width="400" height="300" alt="light-mode" src="https://github.com/user-attachments/assets/dd07794e-b2dc-49e2-96c4-c6bc83adec0a" />
+<img width="400" height="300" alt="dark-mode" src="https://github.com/user-attachments/assets/993c56ae-4baf-47a7-b04b-fef85240d2b6" />
+
+
 
 ## A few details
 
