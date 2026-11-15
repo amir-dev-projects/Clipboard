@@ -28,6 +28,27 @@ I wanted the app to stay focused: a clean interface, practical features, and loc
 - **Supports light, dark, and system appearance** — choose the look that suits your Mac.
 - **Stores data locally** — clipboard history is stored on the Mac.
 
+## Screenshots
+
+Here is a look at Clipboard in both available appearances.
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <strong>Dark Mode</strong><br />
+      <img src="screenshots/dark-mode.png" alt="Clipboard running in Dark Mode" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <strong>Light Mode</strong><br />
+      <img src="screenshots/light-mode.png" alt="Clipboard running in Light Mode" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <strong>Light Mode</strong><br />
+      <img src="screenshots/clipboard.png" alt="Clipboard - copied and pinned items" width="100%" />
+    </td>
+  </tr>
+</table>
+
 ## A few details
 
 | | |
@@ -37,10 +58,6 @@ I wanted the app to stay focused: a clean interface, practical features, and loc
 | Storage | Local on the Mac |
 | Cloud sync | Not included in this build |
 | Interface | Light, dark, and system appearance |
-
-## Screenshots
-
-Screenshots will be added here as the project page develops.
 
 ## Download
 
