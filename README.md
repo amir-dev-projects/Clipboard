@@ -1,4 +1,4 @@
-<img width="1042" height="761" alt="dark-clipboard" src="https://github.com/user-attachments/assets/fa803d0f-1d7c-4caa-86a4-e9dc90b357f4" />
+
 <div align="center">
 
   <img src="assets/af-logo.png" alt="Amir Fatemi logo" width="150" />
