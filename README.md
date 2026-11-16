@@ -33,8 +33,8 @@ I wanted the app to stay focused: a clean interface, practical features, and loc
 
 Here is a look at Clipboard in both available appearances.
 
-<img width="750" height="500" alt="clipboard" src="https://github.com/user-attachments/assets/e8737949-a260-4771-9a0e-f44871c99047" /><img width="750" height="500" alt="light-mode" src="https://github.com/user-attachments/assets/dd07794e-b2dc-49e2-96c4-c6bc83adec0a" />
-<img width="750" height="500" alt="dark-mode" src="https://github.com/user-attachments/assets/993c56ae-4baf-47a7-b04b-fef85240d2b6" /><img width="750" height="500" alt="dark-clipboard" src="https://github.com/user-attachments/assets/dc515b55-e2b5-4cab-a820-9e88920473aa" />
+<img width="750" height="500" alt="light-mode" src="https://github.com/user-attachments/assets/dd07794e-b2dc-49e2-96c4-c6bc83adec0a" />
+<img width="750" height="500" alt="dark-mode" src="https://github.com/user-attachments/assets/993c56ae-4baf-47a7-b04b-fef85240d2b6" /><img width="750" height="500" alt="clipboard" src="https://github.com/user-attachments/assets/e8737949-a260-4771-9a0e-f44871c99047" /><img width="750" height="500" alt="dark-clipboard" src="https://github.com/user-attachments/assets/dc515b55-e2b5-4cab-a820-9e88920473aa" />
 
 
 
